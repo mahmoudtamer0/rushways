@@ -27,12 +27,10 @@ build/
 
 # Images uploads (لو عندك multer uploads)
 uploads/
-.env
 # OS files
 .DS_Store
 Thumbs.db
 # Editor files
-.vscode/
 .idea/
 
 # Debug

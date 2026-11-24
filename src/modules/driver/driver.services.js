@@ -1,5 +1,5 @@
 
-const { redisClient } = require("../config/redis");
+const { redisClient } = require("../../config/redis");
 
 const GEO_KEY = "drivers:locations";
 const AVAILABLE_KEY = "drivers:available";
